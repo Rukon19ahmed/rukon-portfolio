@@ -1,0 +1,12 @@
+# Original, uncompressed videos never go to GitHub
+raw/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / local tools
+.vscode/
+.claude/
+*.log

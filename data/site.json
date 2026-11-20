@@ -1,0 +1,76 @@
+{
+  "_readme": "Edit your text here. Anything in [square brackets] is a placeholder: replace it with your real info. Empty \"\" values are hidden on the site.",
+
+  "name": "Md Rukon Kholifa",
+  "shortName": "Rukon",
+  "role": "Video Editor & AI Filmmaker",
+  "heroLine": "AI films and ads for brands and AI tools.",
+
+  "available": true,
+  "availableText": "Available for new projects",
+  "unavailableText": "Fully booked right now. Say hi anyway.",
+
+  "bio": "I'm a video editor and AI filmmaker from Bangladesh. I cut in Premiere Pro, After Effects and DaVinci Resolve, and build the shots, voices and sound with AI. Short films, brand ads and reels, made to be watched to the end.",
+
+  "toolkit": [
+    {
+      "label": "Editing",
+      "tools": [
+        { "name": "Premiere Pro", "logo": "assets/logos/premiere-pro.svg", "mono": true },
+        { "name": "After Effects", "logo": "assets/logos/after-effects.svg", "mono": true },
+        { "name": "DaVinci Resolve", "logo": "assets/logos/davinci-resolve.svg", "mono": true }
+      ]
+    },
+    {
+      "label": "AI",
+      "tools": [
+        { "name": "Seedance", "logo": "assets/logos/seedance.png" },
+        { "name": "Dreamina", "logo": "assets/logos/dreamina.jpg" },
+        { "name": "ElevenLabs", "logo": "assets/logos/elevenlabs.png" },
+        { "name": "Cuddler AI", "logo": "assets/logos/cuddler.jpg" },
+        { "name": "Vivix", "logo": "assets/logos/vivix.jpg" },
+        { "name": "Frameo AI", "logo": "assets/logos/frameo.jpg" },
+        { "name": "EnterPro AI", "logo": "assets/logos/enterpro.jpg" }
+      ]
+    }
+  ],
+
+  "whatIDo": [
+    { "title": "Editing", "line": "Cut, motion and color in Premiere Pro, After Effects and DaVinci Resolve." },
+    { "title": "AI Filmmaking", "line": "Scenes and characters built from a script and a prompt." },
+    { "title": "Sound & Voice", "line": "Voiceover, music and sound design that sells the shot." },
+    { "title": "Brand Ads", "line": "Product films made without a shoot day." }
+  ],
+
+  "services": [
+    { "title": "AI Short Films", "line": "Story-led films made with AI, from script to final cut.", "startingFrom": "" },
+    { "title": "Brand & Product Ads", "line": "Launch films and product spots without a camera crew.", "startingFrom": "" },
+    { "title": "Reels / Shorts Editing", "line": "Vertical edits built to hold attention past the first second.", "startingFrom": "" },
+    { "title": "Voice & Sound Design", "line": "AI voice, music and sound that make it feel real.", "startingFrom": "" }
+  ],
+
+  "stats": [
+    { "value": "474.8K", "label": "Instagram views in the last 30 days" },
+    { "value": "4,547", "label": "Instagram followers" },
+    { "value": "264K+", "label": "Views on 7 recent X films" },
+    { "value": "4", "label": "AI company partnerships" }
+  ],
+
+  "collaborationsTitle": "Working with AI companies",
+  "collaborations": [
+    { "role": "Ambassador", "name": "ElevenLabs × ElevenCreative", "url": "https://x.com/ElevenLabs" },
+    { "role": "Creator Partner", "name": "EnterPro AI", "url": "https://x.com/EnterProAI" },
+    { "role": "Advocate", "name": "Frameo AI", "url": "https://x.com/frameo_ai" },
+    { "role": "Creator Partner Program", "name": "Cuddler AI", "url": "https://x.com/CuddlerAI" }
+  ],
+
+  "email": "mdrukon6789@gmail.com",
+  "whatsapp": "8801756116112",
+  "whatsappMessage": "Hi Rukon, I saw your portfolio and want to talk about a project.",
+
+  "socials": {
+    "x": "https://x.com/Rukon__Kholifa",
+    "instagram": "https://www.instagram.com/rk.creative.ai",
+    "youtube": ""
+  }
+}

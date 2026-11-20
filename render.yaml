@@ -1,0 +1,25 @@
+# Render Blueprint: free Static Site, deployed from your GitHub repo.
+# No build step. The site is served straight from the repo root.
+services:
+  - type: web
+    name: rukon-portfolio
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
+    headers:
+      - path: /videos/*
+        name: Cache-Control
+        value: public, max-age=604800
+      - path: /posters/*
+        name: Cache-Control
+        value: public, max-age=604800
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=86400
+      - path: /data/*
+        name: Cache-Control
+        value: no-cache
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff

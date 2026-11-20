@@ -1,0 +1,352 @@
+[
+  {
+    "id": "the-butterscotch-heist",
+    "title": "The Butterscotch Heist",
+    "tagline": "One fridge. One treasure.",
+    "description": "Lights off, door silenced, family asleep. The vault had one tub of butterscotch.",
+    "category": "Short Films",
+    "tools": [
+      "Dreamina"
+    ],
+    "file": "videos/the-butterscotch-heist.mp4",
+    "poster": "posters/the-butterscotch-heist.webp",
+    "featured": true,
+    "vertical": false,
+    "year": "2026",
+    "client": "Personal project",
+    "role": "",
+    "brief": "",
+    "idea": "",
+    "process": [],
+    "results": {
+      "stats": [
+        {
+          "value": "52.9K",
+          "label": "Views on X"
+        },
+        {
+          "value": "340",
+          "label": "Likes"
+        },
+        {
+          "value": "190",
+          "label": "Replies"
+        }
+      ],
+      "link": "https://x.com/Rukon__Kholifa/status/2121825192389566685",
+      "linkLabel": "See the original post on X"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  },
+  {
+    "id": "the-night-shift",
+    "title": "The Night Shift",
+    "tagline": "Five strangers. One city asleep.",
+    "description": "The same chart at 2 AM. Made for Sai's AI video contest.",
+    "category": "Ads",
+    "tools": [],
+    "file": "videos/the-night-shift.mp4",
+    "poster": "posters/the-night-shift.webp",
+    "featured": true,
+    "vertical": false,
+    "year": "2026",
+    "client": "Sai · AI Video Contest entry",
+    "role": "",
+    "brief": "",
+    "idea": "",
+    "process": [],
+    "results": {
+      "stats": [
+        {
+          "value": "28.3K",
+          "label": "Views on X"
+        },
+        {
+          "value": "171",
+          "label": "Likes"
+        }
+      ],
+      "link": "https://x.com/Rukon__Kholifa/status/2121663409024627003",
+      "linkLabel": "See the original post on X"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  },
+  {
+    "id": "the-last-radio",
+    "title": "The Last Radio",
+    "tagline": "One voice. One last lap.",
+    "description": "A 30-second F1 short. He won the race. No one answered.",
+    "category": "Short Films",
+    "tools": [
+      "Dreamina"
+    ],
+    "file": "videos/the-last-radio.mp4",
+    "poster": "posters/the-last-radio.webp",
+    "featured": false,
+    "vertical": false,
+    "year": "2026",
+    "client": "Personal project",
+    "role": "",
+    "brief": "",
+    "idea": "Final lap, rain, and one voice in his ear the whole race. He makes the move and wins. \"We did it, Dad...\" No reply.",
+    "process": [],
+    "results": {
+      "stats": [
+        {
+          "value": "61.3K",
+          "label": "Views on X"
+        },
+        {
+          "value": "274",
+          "label": "Likes"
+        },
+        {
+          "value": "36",
+          "label": "Reposts"
+        }
+      ],
+      "link": "https://x.com/Rukon__Kholifa/status/2121114593770848325",
+      "linkLabel": "See the original post on X"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  },
+  {
+    "id": "remember-me",
+    "title": "Remember Me",
+    "tagline": "Some people don't lose time. Time loses them.",
+    "description": "An AI sci-fi short made with Director Mode × Seedance 2.5.",
+    "category": "Short Films",
+    "tools": [
+      "Cuddler AI Director Mode",
+      "Seedance 2.5"
+    ],
+    "file": "videos/remember-me.mp4",
+    "poster": "posters/remember-me.webp",
+    "featured": false,
+    "vertical": false,
+    "year": "2026",
+    "client": "Cuddler AI · Creator Partner Program (paid partnership)",
+    "role": "",
+    "brief": "",
+    "idea": "",
+    "process": [],
+    "results": {
+      "stats": [
+        {
+          "value": "28.3K",
+          "label": "Views on X"
+        },
+        {
+          "value": "206",
+          "label": "Likes"
+        },
+        {
+          "value": "100",
+          "label": "Replies"
+        }
+      ],
+      "link": "https://x.com/Rukon__Kholifa/status/2121959721121042935",
+      "linkLabel": "See the original post on X"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  },
+  {
+    "id": "the-maid-of-ashford-grand",
+    "title": "The Maid of Ashford Grand",
+    "tagline": "A maid's uniform. 51% of the hotel.",
+    "description": "Part 12 of an ongoing AI drama series on Instagram.",
+    "category": "Reels",
+    "tools": [],
+    "file": "videos/the-maid-of-ashford-grand.mp4",
+    "poster": "posters/the-maid-of-ashford-grand.webp",
+    "featured": false,
+    "vertical": true,
+    "hidden": true,
+    "year": "2026",
+    "client": "Original AI drama series",
+    "role": "",
+    "brief": "",
+    "idea": "She walks into the boardroom in a maid's uniform and tells them she owns 51% of the hotel. Then the DNA test comes back.",
+    "process": [],
+    "results": {
+      "stats": [
+        {
+          "value": "1,584",
+          "label": "Likes on Instagram"
+        },
+        {
+          "value": "160",
+          "label": "Comments"
+        }
+      ],
+      "link": "https://www.instagram.com/reel/Dfz15QQhUp5/",
+      "linkLabel": "See the original reel on Instagram"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  },
+  {
+    "id": "can-you-dance",
+    "title": "Can You Dance?",
+    "tagline": "Real skin. Real fog. Real fear.",
+    "description": "A Halloween ad for Cuddler AI. \"No\" was the wrong answer.",
+    "category": "Ads",
+    "tools": [
+      "Cuddler AI"
+    ],
+    "file": "videos/can-you-dance.mp4",
+    "poster": "posters/can-you-dance.webp",
+    "featured": false,
+    "vertical": false,
+    "year": "2026",
+    "client": "Cuddler AI · Creator Partner Program (#ad)",
+    "role": "",
+    "brief": "",
+    "idea": "",
+    "process": [],
+    "results": {
+      "stats": [
+        {
+          "value": "26.4K",
+          "label": "Views on X"
+        },
+        {
+          "value": "152",
+          "label": "Likes"
+        },
+        {
+          "value": "103",
+          "label": "Replies"
+        }
+      ],
+      "link": "https://x.com/Rukon__Kholifa/status/2117114817731551512",
+      "linkLabel": "See the original post on X"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  },
+  {
+    "id": "the-ballon-dor-heist",
+    "title": "The Ballon d'Or Heist",
+    "tagline": "Two thieves. One sleeping striker.",
+    "description": "Mbappé and Yamal try to steal the Ballon d'Or from a sleeping Kane.",
+    "category": "Short Films",
+    "tools": [
+      "Cuddler AI Video Studio"
+    ],
+    "file": "videos/the-ballon-dor-heist.mp4",
+    "poster": "posters/the-ballon-dor-heist.webp",
+    "featured": false,
+    "vertical": false,
+    "year": "2026",
+    "client": "Personal project",
+    "role": "",
+    "brief": "",
+    "idea": "",
+    "process": [],
+    "results": {
+      "stats": [
+        {
+          "value": "12.7K",
+          "label": "Views on X"
+        },
+        {
+          "value": "60",
+          "label": "Likes"
+        }
+      ],
+      "link": "https://x.com/Rukon__Kholifa/status/2115878415828189669",
+      "linkLabel": "See the original post on X"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  },
+  {
+    "id": "men-dont-cry",
+    "title": "Men Don't Cry",
+    "tagline": "Until the dog food ad.",
+    "description": "A couple comedy about one very sad commercial.",
+    "category": "Reels",
+    "tools": [],
+    "file": "videos/men-dont-cry.mp4",
+    "poster": "posters/men-dont-cry.webp",
+    "featured": false,
+    "vertical": true,
+    "hidden": true,
+    "year": "2026",
+    "client": "Personal project",
+    "role": "",
+    "brief": "",
+    "idea": "",
+    "process": [],
+    "results": {
+      "stats": [],
+      "link": "https://www.instagram.com/p/DfVZ0IaT2PD/",
+      "linkLabel": "See the original post on Instagram"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  },
+  {
+    "id": "the-only-real-person",
+    "title": "The Only Real Person",
+    "tagline": "One real guest. Or so he thought.",
+    "description": "A party where everyone else is AI. Made with Vivix W1.",
+    "category": "Reels",
+    "tools": [
+      "Vivix W1"
+    ],
+    "file": "videos/the-only-real-person.mp4",
+    "poster": "posters/the-only-real-person.webp",
+    "featured": false,
+    "vertical": true,
+    "year": "2026",
+    "client": "Vivix · W1 Challenge entry",
+    "role": "",
+    "brief": "",
+    "idea": "",
+    "process": [],
+    "results": {
+      "stats": [
+        {
+          "value": "54.2K",
+          "label": "Views on X"
+        },
+        {
+          "value": "237",
+          "label": "Likes"
+        },
+        {
+          "value": "49",
+          "label": "Reposts"
+        }
+      ],
+      "link": "https://x.com/Rukon__Kholifa/status/2116139853180289200",
+      "linkLabel": "See the original post on X"
+    },
+    "behindTheScenes": {
+      "intro": "",
+      "items": []
+    }
+  }
+]
