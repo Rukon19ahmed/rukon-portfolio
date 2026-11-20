@@ -163,9 +163,9 @@ The section turns on automatically. Empty list `[]` = hidden.
 
 ## Live site
 
-- Website: **https://rukon-portfolio.onrender.com**
+- Website: **https://rk-creation.onrender.com**
 - Code: https://github.com/Rukon19ahmed/rukon-portfolio
-- Hosting: Render free Static Site `rukon-portfolio` (Build command empty, Publish directory `.`), auto-deploys from `main`.
+- Hosting: Render free Static Site `rk-creation` (Build command empty, Publish directory `.`), auto-deploys from `main`.
 
 ### Publish a change
 
