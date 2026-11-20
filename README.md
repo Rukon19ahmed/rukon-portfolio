@@ -161,19 +161,23 @@ The section turns on automatically. Empty list `[]` = hidden.
 
 ---
 
-## Before you deploy (checklist)
+## Live site
 
-- [ ] Replace every `[placeholder]` in `data/site.json` and `data/videos.json`
-- [ ] Replace sample videos and the showreel
-- [ ] In `index.html` and `work.html`, replace `https://YOUR-SITE.onrender.com` with your real address (needed for the X/WhatsApp share preview image)
-- [ ] Optional: make a nicer `og-image.jpg` (1200×630, e.g. a still from your best film with your name)
+- Website: **https://rukon-portfolio.onrender.com**
+- Code: https://github.com/Rukon19ahmed/rukon-portfolio
+- Hosting: Render free Static Site `rukon-portfolio` (Build command empty, Publish directory `.`), auto-deploys from `main`.
 
-## Deploy to Render (free Static Site), when you're ready
+### Publish a change
 
-1. Create a GitHub repo and push this folder (`raw/` is ignored automatically).
-2. On render.com: **New → Blueprint**, pick the repo. It reads `render.yaml`
-   (or **New → Static Site**: Build command = empty, Publish directory = `.`).
-3. Every `git push` updates the site.
+After editing files, in a terminal in this folder:
+```bash
+git add -A
+git commit -m "Update portfolio"
+git push
+```
+Render rebuilds automatically; the site updates in about a minute.
+
+Optional: make a nicer `og-image.jpg` (1200×630, e.g. a still from your best film with your name).
 
 ## Free visitor analytics (no cookie banner needed)
 
